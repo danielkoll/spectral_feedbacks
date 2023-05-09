@@ -37,3 +37,6 @@ jupyter notebook
 resulting output:
 
 ![Alt text](spectral_feedbacks/blob/main/plot_theory_feedback_map.pdf)
+![Alt text](blob/main/plot_theory_feedback_map.pdf)
+![Alt text](main/plot_theory_feedback_map.pdf)
+![Alt text](plot_theory_feedback_map.pdf)
