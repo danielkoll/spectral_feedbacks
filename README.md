@@ -34,4 +34,5 @@ jupyter notebook
 
 -> run script
 
-
+resulting output:
+![spectral feedback output map](https://github.com/danielkoll/spectral_feedbacks/blob/main/plot_theory_feedback_map.pdf)
