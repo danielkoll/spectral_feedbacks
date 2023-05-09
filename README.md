@@ -9,21 +9,29 @@ https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0178.1/JAS-D-22-017
 # How to use for simple calculations (requires python, numpy, matplotlib)
 
 1. compute theoretical brightness temperatures:
+
 cd $spectral_feedbacks
+
 python -i plot_theory_brightness_temps.py
 
 
 2. compute spectral feedbacks as a function of surface temperature:
+
 cd $spectral_feedbacks
+
 python -i plot_theory_spectral_feedbacks.py
 
 
 # How to use for advanced calculations (requires jupyter, xarray)
 
 3. compute spatial feedback maps (need additional ERA5 data):
+
 cd $spectral_feedbacks
+
 jupyter notebook
+
 -> open plot_theory_feedback_map.ipynb
+
 -> run script
 
 
