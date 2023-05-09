@@ -1,4 +1,4 @@
-# spectral_feedbacks
+# Spectral feedback scripts
 
 Scripts for computing the clearsky longwave spectral feedback expressions from Koll et al 2023. These scripts provide analytic approximations for the spectral terms that make up Earth's longwave clearsky feedback, and might or might not work well outside the parameter regime in which they were tested. Even for present-day Earth, they are only an approximation.
 
