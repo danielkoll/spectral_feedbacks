@@ -8,7 +8,7 @@ https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0178.1/JAS-D-22-017
 
 # How to use for simple calculations
 
-Software requirements: python, numpy, matplotlib
+*Software requirements: python, numpy, matplotlib*
 
 1. compute analytic brightness temperatures:
 
@@ -26,9 +26,9 @@ python -i plot_theory_spectral_feedbacks.py
 
 # How to use for advanced calculations
 
-Software requirements: the above, plus jupyter, xarray
+*Software requirements: the above, plus jupyter, xarray*
 
-3. compute spatial feedback maps from additional climate data (here, ERA5 climatologies provided):
+3. compute analytic spatial feedback maps using climate data (the example here uses ERA5 climatologies):
 
 cd $spectral_feedbacks
 
