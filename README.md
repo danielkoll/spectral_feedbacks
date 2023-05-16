@@ -37,3 +37,5 @@ jupyter notebook
 resulting output:
 
 ![pdf](plot_theory_feedback_map.pdf)
+
+![jpg](plot_theory_feedback_map.jpg)
