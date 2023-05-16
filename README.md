@@ -24,7 +24,7 @@ python -i plot_theory_spectral_feedbacks.py
 
 # How to use for advanced calculations (requires jupyter, xarray)
 
-3. compute spatial feedback maps (need additional ERA5 data):
+3. compute spatial feedback maps from additional climate data (here, ERA5 climatologies provided):
 
 cd $spectral_feedbacks
 
