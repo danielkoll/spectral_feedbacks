@@ -6,23 +6,27 @@ Reference:
 - Koll, Jeevanjee, Lutsko (2023), An Analytic Model for the Clear-Sky Longwave Feedback, Journal of Atmospheric Sciences.
 https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0178.1/JAS-D-22-0178.1.xml
 
-# How to use for simple calculations (requires python, numpy, matplotlib)
+# How to use for simple calculations
 
-1. compute theoretical brightness temperatures:
+Software requirements: python, numpy, matplotlib
+
+1. compute analytic brightness temperatures:
 
 cd $spectral_feedbacks
 
 python -i plot_theory_brightness_temps.py
 
 
-2. compute spectral feedbacks as a function of surface temperature:
+2. compute analytic spectral feedbacks as a function of surface temperature:
 
 cd $spectral_feedbacks
 
 python -i plot_theory_spectral_feedbacks.py
 
 
-# How to use for advanced calculations (requires jupyter, xarray)
+# How to use for advanced calculations
+
+Software requirements: the above, plus jupyter, xarray
 
 3. compute spatial feedback maps from additional climate data (here, ERA5 climatologies provided):
 
